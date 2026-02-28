@@ -1,7 +1,7 @@
 <!-- Banner/Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Sumit+Jena;DevOps+Engineer+%7C+Cloud+Infrastructure+Specialist+%7C+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Test+Automation;DevOps+Engineer+%7C+Plan+Code+Deploy+%7C+Automation+Expert" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Sumit Jena</h1>
