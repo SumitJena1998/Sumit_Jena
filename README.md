@@ -1,7 +1,7 @@
 <!-- Banner/Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Test+Automation;DevOps+Engineer+%7C+Plan+Code+Deploy+%7C+Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Test+Automation;+Automation+%7C+Plan+Code+Deploy+%7C+Track+Expert" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Sumit Jena</h1>
@@ -105,7 +105,7 @@
   <a href="https://github.com/SumitJena1998">
     <img src="https://img.shields.io/badge/GitHub-SumitJena1998-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="[https://linkedin.com/in/your-link](https://in.linkedin.com/in/sumit-r-jena-898b341b0?trk=people-guest_people_search-card)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
