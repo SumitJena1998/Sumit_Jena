@@ -7,11 +7,11 @@
 <h1 align="center">Sumit Jena</h1>
 
 <p align="center">
-  <strong>DevOps Engineer | Cloud Infrastructure Specialist | Automation Expert</strong>
+  <strong>DevOps Engineer |  CI / CD Pipelines | Automation Expert</strong>
 </p>
 
 <p align="center">
-  • 4+ years of experience in DevOps and Cloud Engineering<br>
+  • 4+ years of experience in Network Ops and Cloud Engineering<br>
   • Strong experience in automation, CI/CD, Infrastructure as Code<br>
   • Experience with AWS, Azure, GCP, Kubernetes, Terraform<br>
   • Focus on scalable, secure, production-grade infrastructure<br>
