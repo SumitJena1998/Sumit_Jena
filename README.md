@@ -1,7 +1,7 @@
 <!-- Banner/Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Test+Automation;+Infrastructure+%7C+Plan+Code+Deploy+%7C+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Plan+Code;++%7C+Test+Automation+Deploy+%7C+" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Sumit Jena</h1>
